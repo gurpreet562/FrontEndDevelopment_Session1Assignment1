@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Assignment1 </title>
+<style>
+      div.container {
+          width: 100%;
+          border: 1px solid gray;
+    }
+      header, footer {
+          padding: 1em;
+          color: white;
+          background-color: red;
+          clear: left;
+          text-align: center;
+   }
+      #largebox{
+         width:1200px;
+         height:350px;
+         backgroud-color: #OOF;
+         padding-top: 50px;
+         padding-left: 10px;
+         padding-right: 10;
+   }
+      #box1{
+         height:300px;
+         width:250px;
+         float:left;
+   }
+     #box2{
+        height:300px;
+        width:250px;
+       float:left;
+       margin-left:80px;
+  }
+    #box3{
+       height:300px;
+       width:250px;
+      float:left;
+      margin-left:80px;
+ }
+   #box4{
+      height:200px;
+      width:150px;
+     float:right;
+ }
+
+  </style>
+</head>
+    <body>
+         <header>
+         <h2> Acadgild Front End Development Program</h2>
+         </header>
+
+         <div class="container">
+
+          <p style="float:left;"><img src="acadgild.jpg" alt="Acadgild Front End Development" style="width:304px;height:300px;" hspace="20">
+
+          <p>
+              Acadgild, a leading technical and business course provider focussing on the career development of graduates, working professionals.It not only provides educational base for the learners but also shape their career by providing various job opportunities for the eligible candidates.
+         </p>
+
+         <p>
+           It organises sessions on various programmes like Front End Development, Java, Android Development , Big Data, Hadoop , Cloud Computing etc.
+        </p>
+
+        <p>
+           Acadgild Front End Development Program comprises of Sessions based on introductory concepts on html5 css bootstrap and advance concepts focussed on typescript javascript and angular.The batches for it are held both for the weekdays and on weekends too as suitable to           the candidates.Once enrolled for the particular program and allocated to a particular batch,  candidates need to attend the live session and after the each sessio they are provided with          the assignment which needs to be completed within the stipulated time.They need to give the          quiz for every attended sessions for which marks/points are generated according to his/her          performace and accordingly the ultimate score with their rank are displayed.
+
+  <footer>
+        Copyright &copy; Acadgild.com
+        </footer>
+
+<div id="largebox">
+
+<div id="box1">
+        <img src="bigdata.jpg" alt="Acadgild Front End Development" style="width:304px;height:300px;" >
+</div>
+
+<div id="box2">
+       <img src="android.jpg" alt="Acadgild Front End Development" style="width:304px;height:300px;" >
+</div>
+
+<div id="box3">
+      <img src="acadgild.jpg" alt="Acadgild Front End Development" style="width:304px;height:300px;" >
+</div>
+
+<div id="box4">
+   <h2>
+      Join ACADGILD and KICK YOUR CAREER WHERE YOU DESIRE!!! 
+   </h2>
+</div>
+
+    </div>
+         </div>
+  </body>
+       </html>
+
+
+
+
